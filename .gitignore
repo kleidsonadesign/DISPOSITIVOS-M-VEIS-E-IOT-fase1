@@ -1,0 +1,6 @@
+ecommerce-backend/node_modules
+ecommerce-backend/package-lock.json
+ecommerce-backend/.vscode
+ecommerce-front/node_modules
+ecommerce-front/package-lock.json
+ecommerce-front/.vscode
