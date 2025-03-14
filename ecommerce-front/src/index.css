@@ -1,0 +1,8 @@
+body {
+  background-color: white;   
+}
+
+/* styles.css */
+.Toastify__progress-bar {
+  background-color: green !important; /* Cor da barra de progresso */
+}

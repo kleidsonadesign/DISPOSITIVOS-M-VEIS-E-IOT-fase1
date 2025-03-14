@@ -1,0 +1,23 @@
+#homeBodyContainer {
+    min-height: 76vh;
+}
+
+#collapsible-nav-dropdown {
+   color: rgba(247, 220, 240, 1);
+}
+
+#homeFooter {
+    background-image: linear-gradient(45deg, #7052D6, #e674c2);
+    color: white;
+    height: 15vh;
+}
+
+.bg-mainColor {
+    background-image: linear-gradient(45deg, #7052D6, #e674c2);
+}
+
+.userAvatar {
+    width: 40px ;
+    margin-right: 2%;
+    cursor: pointer;
+}
